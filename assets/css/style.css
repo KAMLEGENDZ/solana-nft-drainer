@@ -11,7 +11,7 @@ body {
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
   background: url(../img/bg.png) no-repeat;
-  background-size: cover;
+  background-size: contain;
   color: #000;
   display: flex;
   justify-content: center;
